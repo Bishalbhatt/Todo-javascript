@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+}
+#nav{
+    background-color: black;
+    color: white;
+    background-size: 20px;
+}
+h1{
+    font-size: 40px;
+}
